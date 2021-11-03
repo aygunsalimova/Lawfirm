@@ -1,0 +1,100 @@
+header,
+footer {
+    background-color: #57614d;
+}
+
+header ul li {
+    display: inline;
+    margin-left: 30px;
+}
+
+header ul li a {
+    font-size: 13px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Times";
+    text-align: right;
+    filter: drop-shadow(0.5px 0.866px 0px rgba(0, 0, 0, 0.3));
+    text-decoration: none;
+}
+
+section {
+    background-color: #e3e3e3;
+}
+
+section .row p {
+    width: 307px;
+    height: 185px;
+    font-size: 30px;
+    line-height: 48px;
+    color: #4e5944;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+section .card {
+    background-color: #e9e9e9;
+}
+
+.section2 {
+    background-color: #e3e3e3;
+}
+
+body {
+    background-color: #e3e3e3 !important;
+}
+
+.section3 h3 {
+    width: 475px;
+    height: 26px;
+    font-size: 19px;
+    line-height: 30px;
+    color: #57614e;
+    font-family: "Times New Roman";
+}
+
+.card-body p {
+    font: 700 14px "Arial";
+    width: 224px;
+    height: 91px;
+    line-height: 24px;
+    color: #626262;
+}
+
+.card-img-top {
+    max-height: 160px;
+}
+
+.section4 h3 {
+    font: 700 13px "Arial";
+    width: 275px;
+    line-height: 24px;
+    color: #626262;
+}
+
+.section4 p {
+    font: 700 13px "Arial";
+    width: 275px;
+    font-size: 13px;
+    line-height: 24px;
+    color: #626262;
+}
+
+.card-img-top:hover {
+    opacity: 0.7;
+}
+
+.fab {
+    font: 700 20px white;
+    margin: 20px 0;
+}
+
+footer p {
+    font: 11px "Arial";
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #e2e2e2;
+    text-align: right;
+    margin: 0 !important;
+}
